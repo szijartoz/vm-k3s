@@ -1,0 +1,7 @@
+---
+mysqlUser: itadmin
+mysqlPassword: itadmin
+mysqlRootPassword: paffabuvossarkany
+persistence:
+  enabled: true
+  storageClass: local-path
